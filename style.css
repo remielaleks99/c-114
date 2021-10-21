@@ -1,0 +1,13 @@
+h3{
+    font-size: 25px !important;
+}
+label{
+    color: white;
+    font-size: 25px;
+}
+.btn-success:hover{
+    background-color: red;
+}
+.btn-warning:hover{
+    background-color: green; 
+}
